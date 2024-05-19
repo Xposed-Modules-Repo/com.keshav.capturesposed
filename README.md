@@ -1,5 +1,5 @@
 # CaptureSposed
-<img align="left" src="images/ic_launcher-playstore.png" width="115" />
+<img align="left" src="https://raw.githubusercontent.com/99keshav99/CaptureSposed/master/images/ic_launcher-playstore.png" width="115" />
 
 With the release of Android 14, Google added an API to enable app developers to detect screenshots. This API has since been adopted by popular apps such as Snapchat.
 
