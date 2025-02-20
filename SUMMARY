@@ -1,1 +1,1 @@
-CaptureSposed - An Xposed module that effectively disables the screenshot detection API introduced in Android 14
+CaptureSposed - Block Android's Screenshot and Screen Recording Detection APIs
